@@ -1,4 +1,2 @@
-# ZhuanPan
-大转盘
-<br>
-![](https://github.com/HuangJAndroid/ZhuanPan/ZhuanPan.gif)
+
+![image](https://github.com/HuangJAndroid/ZhuanPan/raw/master/ZhuanPan.gif)
